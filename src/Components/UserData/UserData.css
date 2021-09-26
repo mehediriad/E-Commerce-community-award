@@ -1,0 +1,25 @@
+.user img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.user{
+    background: lightgreen;
+    padding: 15px 10px;
+    border-radius: 10px;
+    height: 95%;
+    
+}
+.user button{
+    background: #2ecc71;
+    padding:10px 15px;
+    border:none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid gray;
+}
+.user small{
+    color:rgb(59, 59, 59);
+}

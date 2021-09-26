@@ -1,0 +1,10 @@
+.users-data-container{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-gap: 20px;
+    margin-top: 30px;
+    width: 80%;
+}
+.cart-data-container{
+    width:20%;
+}
